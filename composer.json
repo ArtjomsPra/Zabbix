@@ -1,0 +1,17 @@
+{
+    "name": "artjo/zabbix",
+    "autoload": {
+        "psr-4": {
+            "Zabbix\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "ArtjomsPra",
+            "email": "artjoms.pralics@gmail.com"
+        }
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "^9.6"
+    }
+}
